@@ -1,3 +1,3 @@
 #project  
-backend npm start
+backend npm start,
 frontend npm start
